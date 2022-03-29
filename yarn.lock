@@ -691,10 +691,10 @@ builtin-status-codes@^3.0.0:
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
 
-bw-components@^0.1.18:
-  version "0.1.18"
-  resolved "https://registry.yarnpkg.com/bw-components/-/bw-components-0.1.18.tgz#b3ceb00c07eee28e4f52a9276fa2c2e8988448de"
-  integrity sha512-CEC8KEQzOKid24G2Lpm/mmts7R0LSDC4QVC/37/3AUEozPjWAbplbZZ/GopduM70oAx4UtOuA4ntMfjSod2hqA==
+bw-components@^0.1.19:
+  version "0.1.19"
+  resolved "https://registry.yarnpkg.com/bw-components/-/bw-components-0.1.19.tgz#4b55901a585894419781a47038b7a3f89245225e"
+  integrity sha512-O8fEnNth0xN/cWgdVlFOt1secwK6PXMveaelyjWpfHTtKlzi3M+FiOVBlalgGZOinWbHYceR9djA5tzTW/QeHg==
 
 bytes@3.1.0:
   version "3.1.0"
